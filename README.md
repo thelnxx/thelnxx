@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 Merhaba, Ben thelnxx!
+## 👋 Merhaba, Ben Efe (LnX)!
 
 Şu an **Kubuntu 24.04** üzerinde, **Godot** ve **Aseprite** kullanarak hayalimdeki dünyaları inşa ediyorum. Hem bir oyun geliştiricisi hem de TYT/AYT maratonunda bir öğrenciyim.
 
