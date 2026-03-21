@@ -56,7 +56,7 @@
 ## 🎓 Gelecek Planı & Hedefler
 **TYT / AYT Hazırlık Süreci**
 `Üniversite Yolculuğu:`
-![Progress Bar](https://geps.dev/progress/45?dangerColor=ff0000&warningColor=ff0000&successColor=00ff00)
+![Progress Bar](https://geps.dev/progress/90?dangerColor=ff0000&warningColor=ff0000&successColor=00ff00)
 
 ---
 
