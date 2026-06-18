@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Kubuntu%2024.04-0079C1?style=for-the-badge&logo=kubuntu&logoColor=white" />
+  <img src="img.shields.io/badge/%20-Cachy-0079C1?style=for-the-badge&logo=cachyos&logoColor=white" />
   <img src="https://img.shields.io/badge/Vibe-Phonk%20Music-black?style=for-the-badge&logo=spotify&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Sandbox%20Game%20Dev-FF6B6B?style=for-the-badge&logo=godot-engine&logoColor=white" />
 </p>
@@ -12,10 +12,10 @@
 
 ## 👋 Merhaba, Ben Efe (LnX)!
 
-Şu an **Kubuntu 24.04** üzerinde, **Godot** ve **Aseprite** kullanarak hayalimdeki dünyaları inşa ediyorum. Hem bir oyun geliştiricisi hem de TYT/AYT maratonunda bir öğrenciyim.
+Şu an **Cachy OS** üzerinde, **Godot** ve **Aseprite** kullanarak hayalimdeki dünyaları inşa etme yolundayım.
 
 - 🛠️ **Mevcut Proje:** `LnXTry` (2D, Pixel-Based, Sandbox Oyun)
-- 🧠 **Not Tutma & Organizasyon:** `Obsidian` tutkunuyum.
+- 🧠 **Not Tutma & Organizasyon:** `Obsidian` kullanıyorum.
 - 🎵 **Playlist:** Genellikle Phonk eşliğinde kod yazıyorum.
 
 ---
@@ -50,13 +50,6 @@
   <img src="https://img.shields.io/badge/CSS3-Temel-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-Temel-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
-
----
-
-## 🎓 Gelecek Planı & Hedefler
-**TYT / AYT Hazırlık Süreci**
-`Üniversite Yolculuğu:`
-![Progress Bar](https://geps.dev/progress/90?dangerColor=ff0000&warningColor=ff0000&successColor=00ff00)
 
 ---
 
