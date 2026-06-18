@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="img.shields.io/badge/%20-Cachy-0079C1?style=for-the-badge&logo=cachyos&logoColor=white" />
+  <img src="img.shields.io/badge/Cachy-0079C1?style=for-the-badge&logo=cachyos&logoColor=white" />
   <img src="https://img.shields.io/badge/Vibe-Phonk%20Music-black?style=for-the-badge&logo=spotify&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Sandbox%20Game%20Dev-FF6B6B?style=for-the-badge&logo=godot-engine&logoColor=white" />
 </p>
