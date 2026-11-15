@@ -45,7 +45,7 @@
 | 🤖 **[General Purposed Discord Bot & Dashboard](https://github.com/thelnxx/lnx-bot)** | A Discord bot architecture built with custom Cogs and Tortoise-ORM & Async Dashboard. | `Python` `discord.py` `SQL` | 🛠️ In Dev |
 | 🧠 **[Local AI Workflows](https://github.com/thelnxx/AI)** | Optimized local AI runtimes using NPU / DirectML acceleration and VS Code integration. | `Python` `Ollama` `DirectML` | 🛠️ In Dev |
 | 🎮 **[LnXTry](https://github.com/thelnxx/LnXTry)**| A 2D Tower Defence & Sandbox, Openworld, Survival Game inspired by Terraria & Mindustry developing by Godot Engine... |`Godot Script` `Godot Engine` `Aseprite` `more . . .`| 🛠️ In Dev |
-| 🌐**[Project: Owl](https://github.com/thelnxx/owl)**| A website that includes a much resources & functions with graphs for students & educational purposes.| `Python` `Django` `Docker` `Bootstrap` `Graph` | 🛠️ In Dev |
+| 🌐 **[Project: Owl](https://github.com/thelnxx/owl)**| A website that includes a much resources & functions with graphs for students & educational purposes.| `Python` `Django` `Docker` `Bootstrap` `Graph` | 🛠️ In Dev |
 ---
 
 ### 🌐 Connect with Me
